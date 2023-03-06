@@ -1,1 +1,1 @@
-Image uploader in Django.
+Image uploader in Django
